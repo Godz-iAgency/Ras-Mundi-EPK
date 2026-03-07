@@ -51,7 +51,9 @@ export function HeroSection() {
         {/* CTA Buttons */}
         <div className="flex flex-col sm:flex-row gap-4 mt-4">
           <a
-            href="#booking"
+            href="https://calendly.com/rasmundimusic/30min"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-4 font-serif text-lg font-bold uppercase tracking-wider rounded-lg transition-colors"
             style={{ backgroundColor: "#FFD700", color: "#1a1a1a" }}
           >

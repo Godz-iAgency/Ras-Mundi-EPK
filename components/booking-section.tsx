@@ -32,7 +32,7 @@ export function BookingSection() {
 
         {/* Primary CTA */}
         <a
-          href="https://bookrasmundi.as.me/"
+          href="https://calendly.com/rasmundimusic/30min"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-3 px-10 py-5 font-serif text-xl font-bold uppercase tracking-wider rounded-lg transition-colors hover:brightness-110 mb-8"
