@@ -32,7 +32,7 @@ export function ElevatorPitch() {
             textShadow: "0 1px 4px rgba(0,0,0,0.7)",
           }}
         >
-          Ras Mundi is a nine-piece international reggae fusion band out of Austin blending reggae, hip-hop, and rock into a massive, conscious vibe. A tribal percussion pulse drives the heartbeat of the music — raw African-Jamaican rhythms layered with thick basslines, harmonies, keys, and trumpet — while Rasta Rhymes deliver revolutionary messages of legalization and enlightenment.
+          Ras Mundi is a nine-piece international reggae fusion band out of Austin blending reggae, hip-hop, and funk into a massive, conscious vibe. A tribal percussion pulse drives the heartbeat of the music — raw African-Jamaican rhythms layered with thick basslines, harmonies, keys, and trumpet — while Rasta Rhymes deliver revolutionary messages of legalization and enlightenment.
         </p>
         <p
           className="text-xl md:text-2xl font-serif font-bold italic text-center"

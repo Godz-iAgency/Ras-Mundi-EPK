@@ -32,7 +32,9 @@ export function BookingSection() {
 
         {/* Primary CTA */}
         <a
-          href="mailto:booking@rasmundi.com"
+          href="https://bookrasmundi.as.me/"
+          target="_blank"
+          rel="noopener noreferrer"
           className="inline-flex items-center gap-3 px-10 py-5 font-serif text-xl font-bold uppercase tracking-wider rounded-lg transition-colors hover:brightness-110 mb-8"
           style={{ backgroundColor: "#FFD700", color: "#1a1a1a" }}
         >
@@ -40,22 +42,10 @@ export function BookingSection() {
           Book Ras Mundi
         </a>
 
-        {/* Contact email */}
-        <div className="flex items-center justify-center gap-2 mb-10">
-          <Mail className="w-5 h-5" style={{ color: "#FFD700" }} />
-          <a
-            href="mailto:booking@rasmundi.com"
-            className="text-lg transition-colors hover:underline"
-            style={{ color: "#FFD700" }}
-          >
-            booking@rasmundi.com
-          </a>
-        </div>
-
         {/* Secondary buttons */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <a
-            href="https://www.instagram.com"
+            href="https://www.instagram.com/rasmundimusic/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-4 border-2 font-serif text-lg font-bold uppercase tracking-wider rounded-lg transition-colors hover:brightness-125"
@@ -65,7 +55,7 @@ export function BookingSection() {
             Follow on Instagram
           </a>
           <a
-            href="https://soundcloud.com"
+            href="https://on.soundcloud.com/9XGbQ6xfBTxQtJTOsf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-4 border-2 font-serif text-lg font-bold uppercase tracking-wider rounded-lg transition-colors hover:brightness-125"

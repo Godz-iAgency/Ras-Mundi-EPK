@@ -5,7 +5,7 @@ const features = [
   { icon: Drum, text: "Audience percussion Jam-Out participation" },
   { icon: Users, text: "Up to 10 musicians live on stage" },
   { icon: Mic2, text: "Multiple songwriters and vocalists" },
-  { icon: Guitar, text: "Reggae, ska-pop, conscious hip-hop, rock fusion" },
+  { icon: Guitar, text: "Reggae, ska-pop, conscious hip-hop, funk fusion" },
   { icon: Music, text: "Communal, tribal dance energy" },
 ]
 

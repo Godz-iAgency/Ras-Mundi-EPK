@@ -7,15 +7,15 @@ export function HeroSection() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <Image
-          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_8967_Original-b13vQebJBM8LtyEzaRrA7w5aKxB13z.jpeg"
-          alt="Ras Mundi colorful lion artwork with tropical sunset and ocean waves"
+          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG-20260224-WA0200%20%281%29-krAfemDg0OeInCCrMuj8T4AyJOu7gc.jpg"
+          alt="Ras Mundi mystical moon with glowing energy and tree roots"
           fill
           className="object-cover"
           priority
         />
         {/* Darker overlay for text readability */}
-        <div className="absolute inset-0 bg-black/50" />
-        <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-black/40" />
+        <div className="absolute inset-0 bg-black/40" />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-black/30" />
       </div>
 
       {/* Content */}
@@ -45,7 +45,7 @@ export function HeroSection() {
             textShadow: "0 1px 6px rgba(0,0,0,0.9), 0 0 12px rgba(0,0,0,0.5)",
           }}
         >
-          A nine-piece international reggae fusion collective blending reggae, hip-hop, and rock into a massive, conscious sound rooted in culture and unity.
+          A nine-piece international reggae fusion collective blending reggae, hip-hop, and funk into a massive, conscious sound rooted in culture and unity.
         </p>
 
         {/* CTA Buttons */}
@@ -69,7 +69,7 @@ export function HeroSection() {
             Watch Live Videos
           </a>
           <a
-            href="https://schedule.sxsw.com/2026/artists/2017384"
+            href="https://schedule.sxsw.com/2026/artists/2242989"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-4 border-2 font-serif text-lg font-bold uppercase tracking-wider rounded-lg transition-colors"

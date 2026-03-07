@@ -13,7 +13,7 @@ const links = [
   {
     label: "SXSW 2026",
     description: "Official Booking Profile",
-    href: "https://schedule.sxsw.com/2026/artists/2017384",
+    href: "https://schedule.sxsw.com/2026/artists/2242989",
     icon: ExternalLink,
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_2590.JPG-8CqPaaxG8qyX5nV3mlIvrboatME6cu.jpeg",
     imageAlt: "SXSW 2026 Nourishing the Soul showcase flyer",

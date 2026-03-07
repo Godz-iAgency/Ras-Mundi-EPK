@@ -11,7 +11,6 @@ const influences = [
   "The Grateful Dead",
   "Red Hot Chili Peppers",
   "Sublime",
-  "Slightly Stoopid",
 ]
 
 export function SoundInfluences() {
@@ -63,7 +62,7 @@ export function SoundInfluences() {
           className="mt-12 text-center text-lg italic max-w-2xl mx-auto"
           style={{ color: "#FFD700", textShadow: "0 1px 4px rgba(0,0,0,0.7)" }}
         >
-          A bridge between golden-age reggae, 90s conscious hip-hop, and psychedelic rock energy.
+          A bridge between golden-age reggae, 90s conscious hip-hop, and psychedelic funk energy.
         </p>
       </div>
     </section>
